@@ -1,8 +1,7 @@
 # AI Projects Hub
 
-Hi there, I'm **Raafat Nagy**, an AI & Computer Vision Engineer passionate about building intelligent systems and applying machine learning and deep learning techniques to solve real-world problems.  
-This repository serves as a central hub for my projects in **Computer Vision**, **Deep Learning**, and **Machine Learning**.
-
+Hi there, I'm **Raafat Nagy**, an AI Engineer focused on building intelligent systems across Computer Vision, Machine Learning, Deep Learning, Time-Series Forecasting, and NLP / RAG.\
+This repository serves as a central hub for my AI projects in these domains, covering both model development and end-to-end system design.
 
 <div align="center">
     <a href="https://www.linkedin.com/in/raafat-nagy/"><img src="https://img.shields.io/badge/LinkedIn-Raafat--Nagy-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
@@ -15,6 +14,7 @@ This repository serves as a central hub for my projects in **Computer Vision**, 
 - [Computer Vision Projects](#computer-vision-projects)  
 - [Deep Learning Projects](#deep-learning-projects)  
 - [Machine Learning Projects](#machine-learning-projects)  
+- [Time Series and Forecasting Projects](#time-series-and-forecasting-projects)  
 - [Future Work](#future-work)  
 
 ---
@@ -108,6 +108,18 @@ All projects are included in [Deep Learning Projects repository](https://github.
    - Performed data preprocessing and exploratory analysis.  
    - Developed a **Streamlit web app** for user-friendly species prediction with dynamic visualization.  
    - [GitHub Repo](https://github.com/Raafat-Nagy/IRIS-Project) &nbsp;-&nbsp; [Streamlit App](https://iris-flowers-prediction.streamlit.app/)  
+
+---
+
+## Time Series and Forecasting Projects  
+
+1. **Bitcoin Price Forecasting System**  
+   - Built an end-to-end time-series forecasting system for Bitcoin price prediction.  
+   - Implemented multiple models including Prophet, ARIMA, and Auto-ARIMA with full evaluation pipeline.  
+   - Developed an interactive Streamlit dashboard for forecasting, visualization, and uncertainty analysis.  
+   - Handled financial time-series challenges such as volatility, missing data, and backtesting.  
+   - Structured with a modular architecture (data processing, modeling, and UI layers).  
+   - [GitHub Repo](https://github.com/Raafat-Nagy/Bitcoin-Forecasting-App)
 
 ---
 
