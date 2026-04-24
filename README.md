@@ -119,7 +119,8 @@ All projects are included in [Deep Learning Projects repository](https://github.
    - Developed an interactive Streamlit dashboard for forecasting, visualization, and uncertainty analysis.  
    - Handled financial time-series challenges such as volatility, missing data, and backtesting.  
    - Structured with a modular architecture (data processing, modeling, and UI layers).  
-   - [GitHub Repo](https://github.com/Raafat-Nagy/Bitcoin-Forecasting-App)
+   - [GitHub Repo](https://github.com/Raafat-Nagy/Bitcoin-Forecasting-App) &nbsp;-&nbsp; [Streamlit App](https://bitcoin-forecasting-app.streamlit.app)  
+
 
 ---
 
