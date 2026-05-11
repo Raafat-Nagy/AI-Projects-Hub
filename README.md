@@ -6,16 +6,28 @@ This repository serves as a central hub for my AI projects in these domains, cov
 <div align="center">
     <a href="https://www.linkedin.com/in/raafat-nagy/"><img src="https://img.shields.io/badge/LinkedIn-Raafat--Nagy-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
     <a href="https://github.com/Raafat-Nagy"><img src="https://img.shields.io/badge/GitHub-Raafat--Nagy-181717?style=flat&logo=github&logoColor=white" alt="GitHub" /></a>
-    <a href="mailto:RaafatNagy89@gmail.com"><img src="https://img.shields.io/badge/Contact-Email-EA4335?style=flat&logo=gmail&logoColor=white" alt="Email" /></a>
+    <a href="mailto:Raafat.Nagy@outlook.com"><img src="https://img.shields.io/badge/Contact-Email-EA4335?style=flat&logo=gmail&logoColor=white" alt="Email" /></a>
 </div>
 
 ## Table of Contents
 
-- [Computer Vision Projects](#computer-vision-projects)  
-- [Deep Learning Projects](#deep-learning-projects)  
-- [Machine Learning Projects](#machine-learning-projects)  
-- [Time Series and Forecasting Projects](#time-series-and-forecasting-projects)  
-- [Future Work](#future-work)  
+- [NLP and RAG Projects](#nlp-and-rag-projects)
+- [Computer Vision Projects](#computer-vision-projects)
+- [Deep Learning Projects](#deep-learning-projects)
+- [Machine Learning Projects](#machine-learning-projects)
+- [Time Series and Forecasting Projects](#time-series-and-forecasting-projects)
+- [Future Work](#future-work)
+
+---
+
+## NLP and RAG Projects
+
+1. **Chat with Any PDF using End-to-End RAG Assistant**
+
+   * Built a RAG-based system to chat with PDF documents using natural language.
+   * Used LangChain, FAISS, HuggingFace embeddings, and Groq LLM for retrieval and generation.
+   * Developed a FastAPI backend with a simple web interface for document upload and querying.
+   * [GitHub Repo](https://github.com/Raafat-Nagy/End-to-End-RAG-Assistant)  -  [Demo Video](https://youtu.be/BU5qdgPPQN0)
 
 ---
 
